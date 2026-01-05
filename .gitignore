@@ -2,3 +2,5 @@
 **/.env
 **/openaq-data/
 **/raw/location_*/
+**/*_duckdb
+*.parquet
